@@ -1,0 +1,21 @@
+{
+  "name": "numberguess-game3",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "numberguess-game3": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
